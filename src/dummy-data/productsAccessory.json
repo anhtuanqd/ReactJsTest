@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "https://thejulius.cdn.vccloud.vn/wp-content/uploads/2020/10/avt-1.jpg",
+        "alt": "anhdemo",
+        "title": "Đồng Hồ Nữ Julius Hàn Quốc",
+        "price": 790.000,
+        "content": "JULIUS thương hiệu đăng ký đầu tiên tại Seoul Hàn Quốc, công nghệ Nhật Bản với máy Nhật nhập khẩu 100%",
+        "star": 4,
+        "review": 5
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://thejulius.cdn.vccloud.vn/wp-content/uploads/2020/02/1220C.jpg",
+        "alt": "anhdemo",
+        "title": "Đồng Hồ Nữ JA-1220C Julius",
+        "price": 989.000,
+        "content": "JULIUS thương hiệu đăng ký đầu tiên tại Seoul Hàn Quốc, công nghệ Nhật Bản với máy Nhật nhập khẩu 100%",
+        "star": 4,
+        "review": 28
+
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://thejulius.cdn.vccloud.vn/wp-content/uploads/2019/11/JA-1129C.jpg",
+        "alt": "anhdemo",
+        "title": "Đồng Hồ Nữ JA-1129C Julius",
+        "price": 1219.000,
+        "content": "JULIUS thương hiệu đăng ký đầu tiên tại Seoul Hàn Quốc, công nghệ Nhật Bản với máy Nhật nhập khẩu 100%",
+        "star": 5,
+        "review": 45
+
+    },
+    {
+        "id": 4,
+        "imgUrl": "https://thejulius.cdn.vccloud.vn/wp-content/uploads/2021/11/02-4.jpg",
+        "alt": "anhdemo",
+        "title": "Đồng Hồ Nam VC-080M",
+        "price": 389.000,
+        "content": "JULIUS thương hiệu đăng ký đầu tiên tại Seoul Hàn Quốc, công nghệ Nhật Bản với máy Nhật nhập khẩu 100%",
+        "star": 5,
+        "review": 68
+    },
+    {
+        "id": 5,
+        "imgUrl": "https://thejulius.cdn.vccloud.vn/wp-content/uploads/2019/11/JAH-107C-768x768.jpg",
+        "alt": "anhdemo",
+        "title": "Đồng Hồ Nam JAH-107C",
+        "price": 1499.000,
+        "content": "JULIUS thương hiệu đăng ký đầu tiên tại Seoul Hàn Quốc, công nghệ Nhật Bản với máy Nhật nhập khẩu 100%",
+        "star": 4,
+        "review": 32
+
+    },
+    {
+        "id": 6,
+        "imgUrl": "https://thejulius.cdn.vccloud.vn/wp-content/uploads/2021/07/hhh.jpg",
+        "alt": "anhdemo",
+        "title": "Đồng Hồ JA-1317A và Nhẫn",
+        "price": 849.000,
+        "content": "JULIUS thương hiệu đăng ký đầu tiên tại Seoul Hàn Quốc, công nghệ Nhật Bản với máy Nhật nhập khẩu 100%",
+        "star": 3,
+        "review": 26
+    }
+]

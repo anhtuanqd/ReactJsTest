@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "https://uphinh.vn/images/2021/12/14/e673bd6b6eba93f636815143d7d4a25e.jpg",
+        "alt": "",
+        "title": "Unknow",
+        "name":"Nguyễn Hà Trung",
+        "job":"Nhóm trưởng",
+        "content": "Bạn dũng cảm hơn những gì bạn tin, bạn mạnh mẽ hơn những gì bạn thấy và bạn thông minh hơn những gì bạn nghĩ."
+
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://uphinh.vn/images/2021/12/14/f25bc65efed8f164f2fa7e2d96aa9951.jpg",
+        "alt": "",
+        "title": "Unknow",
+        "name":"Đinh Anh Tuân",
+        "job":"Thành viên",
+        "content": "Đừng hạ thấp giấc mơ chỉ để phù hợp với hoàn cảnh. Hãy củng cố niềm tin để làm được những điều tuyệt vời hơn."
+
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://uphinh.vn/images/2021/12/14/75bd0db6e93944457b61fb1b00ce61fe.jpg",
+        "alt": "",
+        "title": "Unknow",
+        "name":"Khổng Quang Hà",
+        "job":"Thành viên",
+        "content": "Sai một lần thì có thể là tai nạn. Nhưng lặp đi lặp lại sai lầm đó thì chính là sự lựa chọn."
+
+    },
+
+    {
+        "id": 4,
+        "imgUrl": "https://uphinh.vn/images/2021/12/14/e031465c788aa370d2a858ed7fb3b15b.jpg",
+        "alt": "",
+        "title": "Unknow",
+        "name":"Trần Cao Duy",
+        "job":"Thành viên",
+        "content": "Nếu có thể làm ai đó mỉm cười, hãy làm ngay hôm nay! Thế giới này cần nhiều người như bạn."
+
+    }
+
+
+]
